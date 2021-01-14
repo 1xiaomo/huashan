@@ -1,6 +1,6 @@
-aaaa -- 修改第1行
-bbbb -- 与1一同修改的行
-bbbb-- user1--upadte
+aaaa
+bbbb
+bbbb
 cccc
 cccc -- user2 update1
 dddd -- user2 upatea2
