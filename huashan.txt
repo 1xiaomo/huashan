@@ -2,4 +2,8 @@ public Class huashan(){
 	public static void main(String args[]){
 		System.out.println("这是本地库输出的主函数");
 	}
+
+	public String bendi(){
+		System.out.println("这是本地写的方法，提交远程库");
+	}
 }
