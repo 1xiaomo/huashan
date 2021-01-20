@@ -10,4 +10,8 @@ public Class huashan(){
 	public int bendi2(){
 		SYstem.out.println("其他用户提交的数据");
 	}
+
+	public void bendi3(){
+		SYstem.out.println("测试使用pull命令拉取");
+	}
 }
