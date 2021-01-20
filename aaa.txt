@@ -6,3 +6,4 @@ cccc -- user2 update1
 dddd -- user2 upatea2
 dddd
 eeee-- user1--update2
+用户1 新增
