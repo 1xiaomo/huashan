@@ -1,5 +1,8 @@
 aaaa
 bbbb -- 与1一同修改的行
+bbbb-- user1--upadte
+cccc
 cccc -- user2 update1
 dddd -- user2 upatea2
-eeee
+dddd
+eeee-- user1--update2
