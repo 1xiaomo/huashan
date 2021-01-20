@@ -6,4 +6,8 @@ public Class huashan(){
 	public String bendi(){
 		System.out.println("这是本地写的方法，提交远程库");
 	}
+
+	public int bendi2(){
+		SYstem.out.println("其他用户提交的数据");
+	}
 }
